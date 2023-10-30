@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+.card--container {
+    border-style: double;
+    border-width: thick;
+    margin: 45px;
+    height: 240px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 600px;
+    background: white;
+    
+}
+
+.card--image {
+    height: 105px;
+    border-radius: 13px;
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: thick;
+}
+
+.card--place{
+    font-family: cursive;
+}
+
+.card--price{
+  font-family: sans-serif;
+  font-weight: 300;
+  
+}
+
+.card--season{
+    font-family: sans-serif;
+    font-weight: 300;
+
+
+}
+
+.app--title{
+    color: white;
+    text-align: left;
+    padding-left: 350px;
+    padding-left: 252px;
+    position: sticky;
+}

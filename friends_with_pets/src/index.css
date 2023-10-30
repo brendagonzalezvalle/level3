@@ -1,0 +1,28 @@
+.friend--container {
+    background-color: lightgrey;
+    margin: 20px;
+    border-style: solid;
+    font-family: monospace;
+    width: 600px;
+   
+}
+
+.friend--list{
+    text-align: center;
+    font-family: monospace;
+    font-size: 22px;
+    border-style: inset;
+    border-color: black;
+    background-color: azure;
+}
+    
+.pet--container{
+    text-transform: uppercase;
+    padding-left: 30px;
+    line-height: 40px;
+
+}
+
+body{
+    background-color: cadetblue; 
+}
